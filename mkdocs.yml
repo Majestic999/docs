@@ -75,198 +75,393 @@ extra:
 nav:
   - Home: index.md
   - Getting Started:
-    #   - Introduction: STEMAIDE_CODER_Kit_Manual/Getting Started/Introduction.md
-      - Arduino IDE Setup: STEMAIDE_CODER_Kit_Manual/Getting Started/Arduino_IDE_Setup.md
-      - Basic Programming Concepts: STEMAIDE_CODER_Kit_Manual/Getting Started/Basic_Programming_Concept.md
-      - Safety Guidelines: STEMAIDE_CODER_Kit_Manual/Getting Started/Safety_Guidelines.md
+      - Arduino IDE Setup: STEMAIDE_CODER_PRO_Kit_Manual/Getting Started/Arduino_IDE_Setup.md
+      - Basic Programming Concept: STEMAIDE_CODER_PRO_Kit_Manual/Getting Started/Basic_Programming_Concept.md
+      - Safety Guidelines: STEMAIDE_CODER_PRO_Kit_Manual/Getting Started/Safety_Guidelines.md
   - Beginner Projects:
-      - Overview: STEMAIDE_CODER_Kit_Manual/Beginner Projects/index.md
-      - 1.1 LED Control:
-          - 1.1.1 Turn ON One LED: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.1_LED/1.1.1_Turn_ON_One_LED.md
-          - 1.1.2 Blink One LED: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.1_LED/1.1.2_Blink_One_LED.md
-          - 1.1.3 Turn ON Two LEDs: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.1_LED/1.1.3_Turn_ON_Two_LEDs.md
-          - 1.1.4 Blink Two LEDs: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.1_LED/1.1.4_Blink_Two_LEDs.md
-          - 1.1.5 Turn ON Three LEDs: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.1_LED/1.1.5_Turn_ON_Three_LEDs.md
-          - 1.1.6 Blink Three LEDs: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.1_LED/1.1.6_Blink_Three_LEDs.md
-          - 1.1.7 Turn ON Four LEDs: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.1_LED/1.1.7_Turn_ON_Four_LEDs.md
-          - 1.1.8 Blink Four LEDs: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.1_LED/1.1.8_Blink_Four_LEDs.md
-          - 1.1.9 Turn ON Five LEDs: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.1_LED/1.1.9_Turn_ON_Five_LEDs.md
-          - 1.1.10 Blink Five LEDs: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.1_LED/1.1.10_Blink_Five_LEDs.md
+      - 1.1 LED:
+          - 1.1.1 Turn ON One LED: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.1_LED/1.1.1_Turn_ON_One_LED.md
+          - 1.1.2 Blink One LED: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.1_LED/1.1.2_Blink_One_LED.md
+          - 1.1.3 Turn ON Two LEDs: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.1_LED/1.1.3_Turn_ON_Two_LEDs.md
+          - 1.1.4 Blink Two LEDs: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.1_LED/1.1.4_Blink_Two_LEDs.md
+          - 1.1.5 Turn ON Three LEDs: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.1_LED/1.1.5_Turn_ON_Three_LEDs.md
+          - 1.1.6 Blink Three LEDs: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.1_LED/1.1.6_Blink_Three_LEDs.md
+          - 1.1.7 Turn ON Four LEDs: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.1_LED/1.1.7_Turn_ON_Four_LEDs.md
+          - 1.1.8 Blink Four LEDs: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.1_LED/1.1.8_Blink_Four_LEDs.md
+          - 1.1.9 Turn ON Five LEDs: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.1_LED/1.1.9_Turn_ON_Five_LEDs.md
+          - 1.1.10 Blink Five LEDs: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.1_LED/1.1.10_Blink_Five_LEDs.md
+      - 1.1 LED Morse Code Messenger: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.1_LED_Morse_Code_Messenger.md
+      - 1.2 Adjustable LED Dimmer: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.2_Adjustable_LED_Dimmer.md
       - 1.2 Buzzer:
-          - 1.2.1 Buzzer ON/OFF: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.2_Buzzer/1.2.1_Buzzer_ON_OFF.md
-          - 1.2.2 Buzzer Beep: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.2_Buzzer/1.2.2_Buzzer_Beep.md
-          - 1.2.3 Piezo Beep Code Generator: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.2_Buzzer/1.2.3_Piezo_Beep_Code_Generator.md
+          - 1.2.1 Buzzer ON OFF: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.2_Buzzer/1.2.1_Buzzer_ON_OFF.md
+          - 1.2.2 Buzzer Beep: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.2_Buzzer/1.2.2_Buzzer_Beep.md
+          - 1.2.3 Piezo Beep Code Generator: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.2_Buzzer/1.2.3_Piezo_Beep_Code_Generator.md
+      - 1.3 Electronic Dice: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.3_Electronic_Dice.md
       - 1.3 Push Button:
-          - 1.3.1 Button with 1 LED: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.3_Push_Button/1.3.1_Button_With_1_LED.md
-          - 1.3.2 Button with 2 LEDs: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.3_Push_Button/1.3.2_Button_With_2_LEDs.md
-          - 1.3.3 Button with 3 LEDs: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.3_Push_Button/1.3.3_Button_With_3_LEDs.md
-          - 1.3.4 Button with 4 LEDs: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.3_Push_Button/1.3.4_Button_With_4_LEDs.md
+          - 1.3.1 Button With 1 LED: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.3_Push_Button/1.3.1_Button_With_1_LED.md
+          - 1.3.2 Button With 2 LEDs: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.3_Push_Button/1.3.2_Button_With_2_LEDs.md
+          - 1.3.3 Button With 3 LEDs: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.3_Push_Button/1.3.3_Button_With_3_LEDs.md
+          - 1.3.4 Button With 4 LEDs: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.3_Push_Button/1.3.4_Button_With_4_LEDs.md
+          - 1.3.5 Push Button Door Lock: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.3_Push_Button/1.3.5_Push_Button_Door_Lock.md
+      - 1.4 MotionBell Presence Trainer: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.4_MotionBell_Presence_Trainer.md
       - 1.4 Traffic Light Module:
-          - 1.4.1 Green Light ON: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.4_Traffic_Light_Module/1.4.1_Green_Light_ON.md
-          - 1.4.2 Blink Green Light: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.4_Traffic_Light_Module/1.4.2_Blink_Green_Light.md
-          - 1.4.3 Red Light ON: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.4_Traffic_Light_Module/1.4.3_Red_Light_ON.md
-          - 1.4.4 Blink Red Light: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.4_Traffic_Light_Module/1.4.4_Blink_Red_Light.md
-          - 1.4.5 Yellow Light ON: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.4_Traffic_Light_Module/1.4.5_Yellow_Light_ON.md
-          - 1.4.6 Blink Yellow Light: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.4_Traffic_Light_Module/1.4.6_Blink_Yellow_Light.md
+          - 1.4.1 Green Light ON: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.4_Traffic_Light_Module/1.4.1_Green_Light_ON.md
+          - 1.4.2 Blink Green Light: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.4_Traffic_Light_Module/1.4.2_Blink_Green_Light.md
+          - 1.4.3 Red Light ON: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.4_Traffic_Light_Module/1.4.3_Red_Light_ON.md
+          - 1.4.4 Blink Red Light: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.4_Traffic_Light_Module/1.4.4_Blink_Red_Light.md
+          - 1.4.5 Yellow Light ON: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.4_Traffic_Light_Module/1.4.5_Yellow_Light_ON.md
+          - 1.4.6 Blink Yellow Light: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.4_Traffic_Light_Module/1.4.6_Blink_Yellow_Light.md
+      - 1.5 AquaDropColourSignal: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.5_AquaDropColourSignal.md
       - 1.5 RGB Module:
-          - 1.5.1 RGB Introduction: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.5_RGB_Module/1.5.0_RGB_Introduction.md
-          - 1.5.2 Red ON: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.5_RGB_Module/1.5.1_Red_ON.md
-          - 1.5.3 Red Blink: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.5_RGB_Module/1.5.2_Red_Blink.md
-          - 1.5.4 Green ON: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.5_RGB_Module/1.5.3_Green_ON.md
-          - 1.5.5 Green Blink: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.5_RGB_Module/1.5.4_Green_Blink.md
-          - 1.5.6 Blue ON: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.5_RGB_Module/1.5.5_Blue_ON.md
-          - 1.5.7 Blue Blink: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.5_RGB_Module/1.5.6_Blue_Blink.md
-          - 1.5.8 Rainbow Colors: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.5_RGB_Module/1.5.7_Rainbow_Colors.md
-      - 1.6 LDR Module: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.6_LDR_Module/1.6.1_LDR_Module.md
+          - 1.5.0 RGB Introduction: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.5_RGB_Module/1.5.0_RGB_Introduction.md
+          - 1.5.1 Red ON: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.5_RGB_Module/1.5.1_Red_ON.md
+          - 1.5.2 Red Blink: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.5_RGB_Module/1.5.2_Red_Blink.md
+          - 1.5.3 Green ON: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.5_RGB_Module/1.5.3_Green_ON.md
+          - 1.5.4 Green Blink: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.5_RGB_Module/1.5.4_Green_Blink.md
+          - 1.5.5 Blue ON: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.5_RGB_Module/1.5.5_Blue_ON.md
+          - 1.5.6 Blue Blink: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.5_RGB_Module/1.5.6_Blue_Blink.md
+          - 1.5.7 Rainbow Colors: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.5_RGB_Module/1.5.7_Rainbow_Colors.md
+      - 1.6 LDR Module:
+          - 1.6.1 LDR Module: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.6_LDR_Module/1.6.1_LDR_Module.md
+      - 1.6 Push Button Direction Signal: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.6_Push_Button_Direction_Signal.md
       - 1.7 Servo Motor:
-          - 1.7.1 One Angle: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.7_Servo_Motor/1.7.1_One_Angle.md
-          - 1.7.2 Sweep: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.7_Servo_Motor/1.7.2_Sweep.md
+          - 1.7.1 One Angle: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.7_Servo_Motor/1.7.1_One_Angle.md
+          - 1.7.2 Sweep: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.7_Servo_Motor/1.7.2_Sweep.md
+      - 1.7 Smart Badge RFID Reader: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.7_Smart_Badge_RFID_Reader.md
+      - 1.8 JoyMap Position Meter: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.8_JoyMap_Position_Meter.md
       - 1.8 Ultrasonic Sensor:
-          - 1.8.1 Ultrasonic Sensor with RGB: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.8_Ultrasonic_Sensor/1.8.1_Ultrasonic_With_RGB.md
-          - 1.8.2 Ultrasonic Distance Monitor: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.8_Ultrasonic_Sensor/1.8.2_Ultrasonic_Distance_Monitor.md
-      - 1.9 Sound Sensor: 
-          - 1.9.1 Noise Checker: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.9_Sound_Sensor/1.9.1_Sound_Sensor.md
-          - 1.9.2 Sound Level Trigger: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.9_Sound_Sensor/1.9.2_Sound_Level_Trigger.md
+          - 1.8.1 Ultrasonic With RGB: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.8_Ultrasonic_Sensor/1.8.1_Ultrasonic_With_RGB.md
+          - 1.8.2 Ultrasonic Distance Monitor: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.8_Ultrasonic_Sensor/1.8.2_Ultrasonic_Distance_Monitor.md
+      - 1.9 Servo Angle Classroom Pointer: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.9_Servo_Angle_Classroom_Pointer.md
+      - 1.9 Sound Sensor:
+          - 1.9.1 Sound Sensor: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.9_Sound_Sensor/1.9.1_Sound_Sensor.md
+          - 1.9.2 Sound Level Trigger: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.9_Sound_Sensor/1.9.2_Sound_Level_Trigger.md
       - 1.10 Noise Level Alarm:
-         - 1.10 Noise Level Alarm: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.10_Noise_Level_Alarm/1.10.1_Noise_level_alarm.md
-      - 1.11 Smart Simulation Night/Day Light:
-         - 1.11 Solar Simulation Night/Day Light: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.11_Solar_Simulation/1.11.1_solar_simulated.md
-      - 1.12 Smart Potentiometer Dimmer:
-         - 1.12 Smart Potentiometer Dimmer: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.12_Smart_potentiometer_dimmer/1.12.1_smart_potentiometer.md
-         - 1.12.2 Analog Dial Positioner: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.12_Smart_potentiometer_dimmer/1.12.2_Analog_Dial_Positioner.md
-      - 1.13 Smart RGB Selector:
-         - 1.13.1 Smart RGB Selector: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.13_Push_Button_RGB_Selector/1.13.1_push_button_rgb_selector.md
-         - 1.13.2 Serial Button Terminal: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.13_Push_Button_RGB_Selector/1.13.2_Serial_Button_Terminal.md
-      - 1.14 Smart Servo Controlled Drawbridge:
-         - 1.14 Smart Servo Controlled Drawbridge: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.14_Servo_Controlled_Drawbridge/1.14.1_servo_controlled_drawbridge.md
-      - 1.15 Smart Distance Based Led Brighness:
-         - 1.15 Smart Distance Based Led Brighness: STEMAIDE_CODER_Kit_Manual/Beginner Projects/1.15_Distance_Based_Led_Brightness/1.15.1_distance_based_led.md
+          - 1.10.1 Noise level alarm: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.10_Noise_Level_Alarm/1.10.1_Noise_level_alarm.md
+      - 1.10 Sonic Range Number Reporter: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.10_Sonic_Range_Number_Reporter.md
+      - 1.11 Electronic Voting Counter: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.11_Electronic_Voting_Counter.md
+      - 1.11 Solar Simulation:
+          - 1.11.1 solar simulated: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.11_Solar_Simulation/1.11.1_solar_simulated.md
+      - 1.12 Distance Warning System: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.12_Distance_Warning_System.md
+      - 1.12 Smart potentiometer dimmer:
+          - 1.12.1 smart potentiometer: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.12_Smart_potentiometer_dimmer/1.12.1_smart_potentiometer.md
+          - 1.12.2 Analog Dial Positioner: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.12_Smart_potentiometer_dimmer/1.12.2_Analog_Dial_Positioner.md
+      - 1.13 Push Button RGB Selector:
+          - 1.13.1 push button rgb selector: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.13_Push_Button_RGB_Selector/1.13.1_push_button_rgb_selector.md
+          - 1.13.2 Serial Button Terminal: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.13_Push_Button_RGB_Selector/1.13.2_Serial_Button_Terminal.md
+      - 1.13 Smart Fan Indicator: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.13_Smart_Fan_Indicator.md
+      - 1.14 Remote Controlled LED: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.14_Remote_Controlled_LED.md
+      - 1.14 Servo Controlled Drawbridge:
+          - 1.14.1 servo controlled drawbridge: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.14_Servo_Controlled_Drawbridge/1.14.1_servo_controlled_drawbridge.md
+      - 1.15 Distance Based Led Brightness:
+          - 1.15.1 distance based led: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.15_Distance_Based_Led_Brightness/1.15.1_distance_based_led.md
+      - 1.15 Mini Access Counter: STEMAIDE_CODER_PRO_Kit_Manual/beginner/1.15_Mini_Access_Counter.md
+      - Overview: STEMAIDE_CODER_PRO_Kit_Manual/beginner/index.md
   - Intermediate Projects:
-      - Overview: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/index.md
-      - 2.1 Button and Buzzer: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.1_Button_And_Buzzer/2.1.1_Button_And_Buzzer.md
-      - 2.2 Button and RGB: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.2_Button_And_RGB/2.2.1_Button_And_RGB.md
-      - 2.3 Button and Traffic Light: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.3_Button_And_Traffic_Light/2.3.1_Button_And_Traffic_Light.md
-      - 2.4 LDR and RGB: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.4_LDR_And_RGB/2.4.1_LDR_And_RGB.md
-      - 2.5 Light Dependent Resistor:
-        - 2.5.1 LDR and Traffic Light: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.5_LDR_And_Traffic_Light/2.5.1_LDR_And_Traffic_Light.md
-        - 2.5.2 Solar Sensing Streetlight: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.5_LDR_And_Traffic_Light/2.5.2_Solar_Sensing_Streetlight.md
-        - 2.5.3 Light Sensitive Canopy Controller: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.5_LDR_And_Traffic_Light/2.5.3_Light_Sensitive_Canopy_Controller.md
-        - Manual Night Override: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.5_LDR_And_Traffic_Light/2.5.4_Manual_Night_Override.md
-      - 2.6 Ultrasonic and Buzzer: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.6_Ultrasonic_And_Buzzer/2.6.1_Ultrasonic_And_Buzzer.md
-      - 2.7 Ultrasonic and RGB:
-        - 2.7.1 Ultrasonic and RGB: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.7_Ultrasonic_And_RGB/2.7.1_Ultrasonic_And_RGB.md
-        - 2.7.2 Backing Distance Meter: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.7_Ultrasonic_And_RGB/2.7.2_Backing_Distance_Meter.md
-        - 2.7.3 Proximity Alarm Radar: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.7_Ultrasonic_And_RGB/2.7.3_Proximity_Alarm_Radar.md
-        - 2.7.4 Automatic Barrier Gate: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.7_Ultrasonic_And_RGB/2.7.4_Automatic_Barrier_Gate.md
-        - 2.7.5 Manual Trigger Radar: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.7_Ultrasonic_And_RGB/2.7.5_Manual_Trigger_Radar.md
-        - 2.7.6 Solar Proximity Switch: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.7_Ultrasonic_And_RGB/2.7.6_Solar_Proximity_Switch.md
-        - 2.7.7 Multi Factor Tracker: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.7_Ultrasonic_And_RGB/2.7.7_Multi_Factor_Tracker.md
-      - 2.8 Sound Sensor and Traffic Light:
-        - Sound Sensor and Traffic Light: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.8_Sound_Sensor_And_Traffic_Light/2.8.1_Sound_Sensor_And_Traffic_Light.md
-        - Sound Controlled Security Siren: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.8_Sound_Sensor_And_Traffic_Light/2.8.2_Sound_Controlled_Security_Siren.md
-        - Acoustic Doggy Door Latch: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.8_Sound_Sensor_And_Traffic_Light/2.8.3_Acoustic_Doggy_Door_Latch.md
-        - Visual Siren Alert: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.8_Sound_Sensor_And_Traffic_Light/2.8.4_Visual_Siren_Alert.md
-        - Audible Crosswalk Signal: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.8_Sound_Sensor_And_Traffic_Light/2.8.5_Audible_Crosswalk_Signal.md
-        - Arming Security Triggers: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.8_Sound_Sensor_And_Traffic_Light/2.8.6_Arming_Security_Triggers.md
-        - Darkness Audio Logger: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.8_Sound_Sensor_And_Traffic_Light/2.8.7_Darkness_Audio_Logger.md
-      - 2.9 Servo Motor:         
-        - Servo and Ultrasonic: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.9_Servo_And_Ultrasonic/2.9.1_Servo_And_Ultrasonic.md
-        - Moving Gate Warning Light: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.9_Servo_And_Ultrasonic/2.9.2_Moving_Gate_Warning_Light.md
-        - Mechanical Expression Display: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.9_Servo_And_Ultrasonic/2.9.3_Mechanical_Expression_Display.md
-        - Traffic Barrier Gate: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.9_Servo_And_Ultrasonic/2.9.4_Traffic_Barrier_Gate.md
-        - Chiming Sweep Display: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.9_Servo_And_Ultrasonic/2.9.5_Chiming_Sweep_Display.md
+      - 2.1 Button And Buzzer:
+          - 2.1.1 Button And Buzzer: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.1_Button_And_Buzzer/2.1.1_Button_And_Buzzer.md
+      - 2.1 Smart Parking Assistant: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.1_Smart_Parking_Assistant.md
+      - 2.2 Button And RGB:
+          - 2.2.1 Button And RGB: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.2_Button_And_RGB/2.2.1_Button_And_RGB.md
+      - 2.2 Digital Safe Lock: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.2_Digital_Safe_Lock.md
+      - 2.3 Button And Traffic Light:
+          - 2.3.1 Button And Traffic Light: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.3_Button_And_Traffic_Light/2.3.1_Button_And_Traffic_Light.md
+      - 2.3 Environmental Monitoring Station: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.3_Environmental_Monitoring_Station.md
+      - 2.4 LDR And RGB:
+          - 2.4.1 LDR And RGB: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.4_LDR_And_RGB/2.4.1_LDR_And_RGB.md
+      - 2.4 RFID Attendance Logger: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.4_RFID_Attendance_Logger.md
+      - 2.5 LDR And Traffic Light:
+          - 2.5.1 LDR And Traffic Light: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.5_LDR_And_Traffic_Light/2.5.1_LDR_And_Traffic_Light.md
+          - 2.5.2 Solar Sensing Streetlight: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.5_LDR_And_Traffic_Light/2.5.2_Solar_Sensing_Streetlight.md
+          - 2.5.3 Light Sensitive Canopy Controller: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.5_LDR_And_Traffic_Light/2.5.3_Light_Sensitive_Canopy_Controller.md
+          - 2.5.4 Manual Night Override: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.5_LDR_And_Traffic_Light/2.5.4_Manual_Night_Override.md
+      - 2.5 Smart Room Climate Controller: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.5_Smart_Room_Climate_Controller.md
+      - 2.6 Smart Irrigation Monitor: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.6_Smart_Irrigation_Monitor.md
+      - 2.6 Ultrasonic And Buzzer:
+          - 2.6.1 Ultrasonic And Buzzer: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.6_Ultrasonic_And_Buzzer/2.6.1_Ultrasonic_And_Buzzer.md
+      - 2.7 Motion Activated Welcome Display: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.7_Motion_Activated_Welcome_Display.md
+      - 2.7 Ultrasonic And RGB:
+          - 2.7.1 Ultrasonic And RGB: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.7_Ultrasonic_And_RGB/2.7.1_Ultrasonic_And_RGB.md
+          - 2.7.2 Backing Distance Meter: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.7_Ultrasonic_And_RGB/2.7.2_Backing_Distance_Meter.md
+          - 2.7.3 Proximity Alarm Radar: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.7_Ultrasonic_And_RGB/2.7.3_Proximity_Alarm_Radar.md
+          - 2.7.4 Automatic Barrier Gate: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.7_Ultrasonic_And_RGB/2.7.4_Automatic_Barrier_Gate.md
+          - 2.7.5 Manual Trigger Radar: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.7_Ultrasonic_And_RGB/2.7.5_Manual_Trigger_Radar.md
+          - 2.7.6 Solar Proximity Switch: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.7_Ultrasonic_And_RGB/2.7.6_Solar_Proximity_Switch.md
+          - 2.7.7 Multi Factor Tracker: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.7_Ultrasonic_And_RGB/2.7.7_Multi_Factor_Tracker.md
+      - 2.8 Smart Queue Management System: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.8_Smart_Queue_Management_System.md
+      - 2.8 Sound Sensor And Traffic Light:
+          - 2.8.1 Sound Sensor And Traffic Light: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.8_Sound_Sensor_And_Traffic_Light/2.8.1_Sound_Sensor_And_Traffic_Light.md
+          - 2.8.2 Sound Controlled Security Siren: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.8_Sound_Sensor_And_Traffic_Light/2.8.2_Sound_Controlled_Security_Siren.md
+          - 2.8.3 Acoustic Doggy Door Latch: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.8_Sound_Sensor_And_Traffic_Light/2.8.3_Acoustic_Doggy_Door_Latch.md
+          - 2.8.4 Visual Siren Alert: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.8_Sound_Sensor_And_Traffic_Light/2.8.4_Visual_Siren_Alert.md
+          - 2.8.5 Audible Crosswalk Signal: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.8_Sound_Sensor_And_Traffic_Light/2.8.5_Audible_Crosswalk_Signal.md
+          - 2.8.6 Arming Security Triggers: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.8_Sound_Sensor_And_Traffic_Light/2.8.6_Arming_Security_Triggers.md
+          - 2.8.7 Darkness Audio Logger: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.8_Sound_Sensor_And_Traffic_Light/2.8.7_Darkness_Audio_Logger.md
+      - 2.9 Interactive Quiz Console: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.9_Interactive_Quiz_Console.md
+      - 2.9 Servo And Ultrasonic:
+          - 2.9.1 Servo And Ultrasonic: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.9_Servo_And_Ultrasonic/2.9.1_Servo_And_Ultrasonic.md
+          - 2.9.2 Moving Gate Warning Light: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.9_Servo_And_Ultrasonic/2.9.2_Moving_Gate_Warning_Light.md
+          - 2.9.3 Mechanical Expression Display: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.9_Servo_And_Ultrasonic/2.9.3_Mechanical_Expression_Display.md
+          - 2.9.4 Traffic Barrier Gate: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.9_Servo_And_Ultrasonic/2.9.4_Traffic_Barrier_Gate.md
+          - 2.9.5 Chiming Sweep Display: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.9_Servo_And_Ultrasonic/2.9.5_Chiming_Sweep_Display.md
+      - 2.10 Electronic Auction System: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Electronic_Auction_System.md
       - 2.10 Smart Alarm Projects:
-        - Ultrasonic + LED:
-          - Ultrasonic with 1 LED: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/Ultrasonic_LED/2.10.1_Ultrasonic_with_1_LED.md
-          - Ultrasonic with 2 LEDs: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/Ultrasonic_LED/2.10.2_Ultrasonic_with_2_LEDs.md
-          - Ultrasonic with 3 LEDs: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/Ultrasonic_LED/2.10.3_Ultrasonic_with_3_LEDs.md
-          - Ultrasonic with 4 LEDs: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/Ultrasonic_LED/2.10.4_Ultrasonic_with_4_LEDs.md
-        - Push Button + LED:
-          - Button to Control LED: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/Push_Button_LED/2.10.5_Button_to_control_LED.md
-          - Button to Blink LED: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/Push_Button_LED/2.10.6_Button_to_blink_LED.md
-          - Button to Control 2 LEDs: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/Push_Button_LED/2.10.7_Button_to_control_2_LEDs.md
-          - Button to Blink 2 LEDs: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/Push_Button_LED/2.10.8_Button_to_blink_2_LEDs.md
-          - Button to Control 3 LEDs: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/Push_Button_LED/2.10.9_Button_to_control_3_LEDs.md
-          - Button to Blink 4 LEDs: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/Push_Button_LED/2.10.10_Button_to_blink_4_LEDs.md
-        - LDR + LED:
-          - LDR with 1 LED: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/LDR_LED/2.10.11_LDR_with_1_LED.md
-          - LDR with 2 LEDs: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/LDR_LED/2.10.12_LDR_with_2_LEDs.md
-          - LDR with 4 LEDs: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/LDR_LED/2.10.13_LDR_with_4_LEDs.md
-          - LDR with 5 LEDs: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/LDR_LED/2.10.14_LDR_with_5_LEDs.md
-        - LDR + Buzzer: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/LDR_Buzzer/2.10.15_LDR_with_Buzzer.md
-        - Sound + LED:
-          - Sound with 1 LED: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/Sound_LED/2.10.16_Sound_with_1_LED.md
-          - Sound with 2 LEDs: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/Sound_LED/2.10.17_Sound_with_2_LEDs.md
-          - Sound with 3 LEDs: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/Sound_LED/2.10.18_Sound_with_3_LEDs.md
-          - Clap to Toggle Lamp: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/Sound_LED/2.10.19_Clap_to_Toggle_Lamp.md
-          - Sound Reactive Party Light: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/Sound_LED/2.10.20_Sound_Reactive_Party_Light.md
-          - Decibel Visualizer: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/Sound_LED/2.10.21_Decibel_Visualizer.md
-          - Heartbeat Sync Display: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/Sound_LED/2.10.22_Heartbeat_Sync_Display.md
-        - LED + RGB:
-          - Diagnostic Mode Display: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/LED_RGB/2.10.22_Diagnostic_Mode_Display.md
-          - Crosswalk Hazard Warning: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.10_Smart_Alarm_Projects/LED_RGB/2.10.23_Crosswalk_Hazard_Warning.md
-      - 2.11 Potentiometer:       
-          - Potentiometer Buzzer: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.11_Potentiometer_Buzzer/2.11.1_Potentiometer_Buzzer.md
-          - Potentiometer LED Dimmer: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.11_Potentiometer_Buzzer/2.11.2_Potentiometer_LED_Dimmer.md
-          - Manual Traffic Speed Dial: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.11_Potentiometer_Buzzer/2.11.3_Manual_Traffic_Speed_Dial.md
-          - Potentiometer Frequency Theremin: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.11_Potentiometer_Buzzer/2.11.4_Potentiometer_Frequency_Theremin.md
-          - Potentiometer Servo Link: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.11_Potentiometer_Buzzer/2.11.5_Potentiometer_Servo_Link.md
-          - Menu Calibration Selector: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.11_Potentiometer_Buzzer/2.11.6_Menu_Calibration_Selector.md
-          - Lux Thresold Tuner: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.11_Potentiometer_Buzzer/2.11.7_Lux_Threshold_Tuner.md
-          - Safety Distance Calibrator: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.11_Potentiometer_Buzzer/2.11.8_Safety_Distance_Calibrator.md
-          - Clap Sensitivity Dial: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.11_Potentiometer_Buzzer/2.11.9_Clap_Sensitivity_Dial.md
-      - 2.12 Automatic traffic detention: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.12_Automatic_traffic_detention/2.12.1_Automatic_traffic_detention.md
-      - 2.13 Intruder Alarm System: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.13_Intruder_Alarm_System/2.13.1_Automatic_traffic_detection.md
-      - 2.14 RGB and Traffic Light Module:
-          - Double Intersection Simulator: STEMAIDE_CODER_Kit_Manual/Intermediate Projects/2.14_RGB_And_Traffic_Light/2.14.1_Double_Intersection_Simulator.md
+          - LDR Buzzer:
+              - 2.10.15 LDR with Buzzer: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/LDR_Buzzer/2.10.15_LDR_with_Buzzer.md
+          - LDR LED:
+              - 2.10.11 LDR with 1 LED: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/LDR_LED/2.10.11_LDR_with_1_LED.md
+              - 2.10.12 LDR with 2 LEDs: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/LDR_LED/2.10.12_LDR_with_2_LEDs.md
+              - 2.10.13 LDR with 4 LEDs: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/LDR_LED/2.10.13_LDR_with_4_LEDs.md
+              - 2.10.14 LDR with 5 LEDs: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/LDR_LED/2.10.14_LDR_with_5_LEDs.md
+          - LED RGB:
+              - 2.10.22 Diagnostic Mode Display: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/LED_RGB/2.10.22_Diagnostic_Mode_Display.md
+              - 2.10.23 Crosswalk Hazard Warning: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/LED_RGB/2.10.23_Crosswalk_Hazard_Warning.md
+          - Push Button LED:
+              - 2.10.5 Button to control LED: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/Push_Button_LED/2.10.5_Button_to_control_LED.md
+              - 2.10.6 Button to blink LED: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/Push_Button_LED/2.10.6_Button_to_blink_LED.md
+              - 2.10.7 Button to control 2 LEDs: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/Push_Button_LED/2.10.7_Button_to_control_2_LEDs.md
+              - 2.10.8 Button to blink 2 LEDs: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/Push_Button_LED/2.10.8_Button_to_blink_2_LEDs.md
+              - 2.10.9 Button to control 3 LEDs: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/Push_Button_LED/2.10.9_Button_to_control_3_LEDs.md
+              - 2.10.10 Button to blink 4 LEDs: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/Push_Button_LED/2.10.10_Button_to_blink_4_LEDs.md
+          - Sound LED:
+              - 2.10.16 Sound with 1 LED: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/Sound_LED/2.10.16_Sound_with_1_LED.md
+              - 2.10.17 Sound with 2 LEDs: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/Sound_LED/2.10.17_Sound_with_2_LEDs.md
+              - 2.10.18 Sound with 3 LEDs: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/Sound_LED/2.10.18_Sound_with_3_LEDs.md
+              - 2.10.19 Clap to Toggle Lamp: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/Sound_LED/2.10.19_Clap_to_Toggle_Lamp.md
+              - 2.10.20 Sound Reactive Party Light: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/Sound_LED/2.10.20_Sound_Reactive_Party_Light.md
+              - 2.10.21 Decibel Visualizer: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/Sound_LED/2.10.21_Decibel_Visualizer.md
+              - 2.10.22 Heartbeat Sync Display: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/Sound_LED/2.10.22_Heartbeat_Sync_Display.md
+          - Ultrasonic LED:
+              - 2.10.1 Ultrasonic with 1 LED: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/Ultrasonic_LED/2.10.1_Ultrasonic_with_1_LED.md
+              - 2.10.2 Ultrasonic with 2 LEDs: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/Ultrasonic_LED/2.10.2_Ultrasonic_with_2_LEDs.md
+              - 2.10.3 Ultrasonic with 3 LEDs: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/Ultrasonic_LED/2.10.3_Ultrasonic_with_3_LEDs.md
+              - 2.10.4 Ultrasonic with 4 LEDs: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.10_Smart_Alarm_Projects/Ultrasonic_LED/2.10.4_Ultrasonic_with_4_LEDs.md
+      - 2.11 Intelligent Water Tank Monitor: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.11_Intelligent_Water_Tank_Monitor.md
+      - 2.11 Potentiometer Buzzer:
+          - 2.11.1 Potentiometer Buzzer: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.11_Potentiometer_Buzzer/2.11.1_Potentiometer_Buzzer.md
+          - 2.11.2 Potentiometer LED Dimmer: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.11_Potentiometer_Buzzer/2.11.2_Potentiometer_LED_Dimmer.md
+          - 2.11.3 Manual Traffic Speed Dial: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.11_Potentiometer_Buzzer/2.11.3_Manual_Traffic_Speed_Dial.md
+          - 2.11.4 Potentiometer Frequency Theremin: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.11_Potentiometer_Buzzer/2.11.4_Potentiometer_Frequency_Theremin.md
+          - 2.11.5 Potentiometer Servo Link: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.11_Potentiometer_Buzzer/2.11.5_Potentiometer_Servo_Link.md
+          - 2.11.6 Menu Calibration Selector: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.11_Potentiometer_Buzzer/2.11.6_Menu_Calibration_Selector.md
+          - 2.11.7 Lux Threshold Tuner: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.11_Potentiometer_Buzzer/2.11.7_Lux_Threshold_Tuner.md
+          - 2.11.8 Safety Distance Calibrator: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.11_Potentiometer_Buzzer/2.11.8_Safety_Distance_Calibrator.md
+          - 2.11.9 Clap Sensitivity Dial: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.11_Potentiometer_Buzzer/2.11.9_Clap_Sensitivity_Dial.md
+      - 2.12 Automatic traffic detection:
+          - 2.12.1 Automatic traffic detection: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.12_Automatic_traffic_detection/2.12.1_Automatic_traffic_detection.md
+      - 2.12 Multi Level Security Alarm: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.12_Multi_Level_Security_Alarm.md
+      - 2.13 Intruder Alarm System:
+          - 2.13.1 Intruder Alarm System: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.13_Intruder_Alarm_System/2.13.1_Intruder_Alarm_System.md
+      - 2.13 Smart Inventory Counter: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.13_Smart_Inventory_Counter.md
+      - 2.14 RGB And Traffic Light:
+          - 2.14.1 Double Intersection Simulator: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.14_RGB_And_Traffic_Light/2.14.1_Double_Intersection_Simulator.md
+      - 2.14 Touch Free Hand Sanitizer Simulator: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.14_Touch_Free_Hand_Sanitizer_Simulator.md
+      - 2.15 Classroom Response System: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/2.15_Classroom_Response_System.md
+      - Overview: STEMAIDE_CODER_PRO_Kit_Manual/intermediate/index.md
   - Advanced Projects:
-      - Overview: STEMAIDE_CODER_Kit_Manual/Advance Projects/index.md
-      - 3.1 Automatic Curtain Controller: STEMAIDE_CODER_Kit_Manual/Advance Projects/3.1_Automatic_Curtain_Controller/3.1.1_Automatic_Curtain_Controller.md
-      - 3.2 Smart Parking System: STEMAIDE_CODER_Kit_Manual/Advance Projects/3.2_Smart_Parking_System/3.2.1_Smart_Car_Parking_System.md
-      - 3.3 Home Security System: STEMAIDE_CODER_Kit_Manual/Advance Projects/3.3_Home_Security_System/3.3.1_Smart_Security_System.md
-      - 3.4 Security Gate Audio Alert: STEMAIDE_CODER_Kit_Manual/Advance Projects/3.4_Security_Gate_Audio_Alert/3.4.1_Security_Gate_Audio_Alert.md
-      - 3.5 Smart Traffic Light System: STEMAIDE_CODER_Kit_Manual/Advance Projects/3.5_Smart_Traffic_Light_System/3.5.1_Smart_Traffic_Light_System.md
+      - 3.1 Automatic Curtain Controller:
+          - 3.1.1 Automatic Curtain Controller: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.1_Automatic_Curtain_Controller/3.1.1_Automatic_Curtain_Controller.md
+      - 3.1 Smart Greenhouse Controller: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.1_Smart_Greenhouse_Controller.md
+      - 3.2 Smart Home Security Dashboard: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.2_Smart_Home_Security_Dashboard.md
+      - 3.2 Smart Parking System:
+          - 3.2.1 Smart Car Parking System: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.2_Smart_Parking_System/3.2.1_Smart_Car_Parking_System.md
+      - 3.3 Automated Classroom Environment Monitor: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.3_Automated_Classroom_Environment_Monitor.md
+      - 3.3 Home Security System:
+          - 3.3.1 Smart Security System: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.3_Home_Security_System/3.3.1_Smart_Security_System.md
+      - 3.4 Security Gate Audio Alert:
+          - 3.4.1 Security Gate Audio Alert: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.4_Security_Gate_Audio_Alert/3.4.1_Security_Gate_Audio_Alert.md
+      - 3.4 Smart Energy Consumption Monitor: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.4_Smart_Energy_Consumption_Monitor.md
+      - 3.5 Automated Warehouse Monitoring System: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.5_Automated_Warehouse_Monitoring_System.md
+      - 3.5 Smart Traffic Light System:
+          - 3.5.1 Smart Traffic Light System: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.5_Smart_Traffic_Light_System/3.5.1_Smart_Traffic_Light_System.md
+      - 3.6 Intelligent Visitor Management System: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.6_Intelligent_Visitor_Management_System.md
       - 3.6 STEM Capstone Projects:
-        - 3.6.1 Smart Gauge System: STEMAIDE_CODER_Kit_Manual/Advance Projects/3.6_STEM_Capstone_Projects/3.6.1_Smart_Gauge_System.md
-        - 3.6.2 Smart Traffic Light System: STEMAIDE_CODER_Kit_Manual/Advance Projects/3.6_STEM_Capstone_Projects/3.6.2_Smart_Traffic_Light_System.md
-      - 3.7 Sound Controlled Desk Lamp: STEMAIDE_CODER_Kit_Manual/Advance Projects/3.7_Sound_Controlled_Desk_Lamp/3.7.1_Sound_controlled_Desk_Lamp.md
-      - 3.8 Proximity Parking Radar: STEMAIDE_CODER_Kit_Manual/Advance Projects/3.8_Proximity_Parking_Radar/3.8.1_Proximity_Parking_Radar.md
-      - 3.9 Calibrated Water: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.9_Caliberated_Water\3.9.1_Calibrated_Water_Level_Simulator.md
-      - 3.10 Interactive Toll Gate: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.10_Interactive_Toll_Gate\3.10.1_Interactive_Toll_Gate_Barrier.md
-      - 3.11 Smart Thermostat: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.11_Smart_Thermostat\3.11.1_Smart_Thermostat_Simulator.md
-      - 3.12 Armed Intruder Alarm: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.12_Armed_Intruder_Alarm\3.12.1_Armed_Intruder_Alarm.md
-      - 3.13 Speed Trapping Radar: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.13_Speed_Trapping_Radar\3.13.1_Speed_Trapping_Radar_Warning.md
-      - 3.14 Sound and Distance Alarm: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.14_Sound_And_Distance_Alarm\3.14.1_Sound_&_Distance_Alarm.md
-      - 3.15 Emergency Panic Station: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.15_Emergency_Panic\3.15.1_Emergency_Panic_Station.md
-      - 3.16 Greenhouse Climate Monitor: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.16_Greenhouse_Climate_Monitor\3.16.1_Greenhouse_Climate_Monitor.md
-      - 3.17 Sound Reactive Servo Display: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.17_Sound_Reactive_Servo_Display\3.17.1_Sound_Reactive_Servo_Display.md
-      - 3.18 Noise Pollution Monitor: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.18_Noise_Pollution_Monitor\3.18.1_Noise_Pollution_Monitor.md
-      - 3.19 Adjustable Blink Rate Alarm: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.19_Adjustable_Blink_Rate_Alarm\3.19.1_Adjustable_Blink_Rate_Alarm.md
-      - 3.20 Color Coded Servo Positioner: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.20_Color_Coded_Servo_Positioner\3.20.1_Color_Coded_Servo_Positioner.md
-      - 3.21 Multi Modal Security Gate: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.21_Multi_Modal_Security_Gate\3.21.1_Multi_Modal_Security_Gate.md
-      - 3.22 Smart Mood Room Controller: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.22_Smart_Mood_Room_Controller\3.22.1_Smart_Mood_Room_Controller.md
-      - 3.23 Dual Sensor Perimeter Alarm: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.23_Dual_Sensor_Perimeter_Alarm\3.23.1_Dual_Sensor_Perimeter_Alarm.md
-      - 3.24 Calibrated Light Alarm Gauge: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.24_Calibrated_Light_Alarm_Gauge\3.24.1_Calibrated_Light_Alarm_Gauge.md
-      - 3.25 Integrated Smart Home Security Console: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.25_Integrated_Smart_Home_Security_Console\3.25.1_Integrated_Smart_Home_Security_Console.md
-      - 3.26 Autonomous Parking Garage System: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.26_Autonomous_Parking_Garage_System\3.26.1_Autonomous_Parking_Garage_System.md
-      - 3.27 Auditortory Reaction Timer Game: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.27_Auditory_Reaction_Timer_Game\3.27.1_Auditory_Reaction_Timer_Game.md
-      - 3.28 Smart Weather Station Console: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.28_Smart_Weather_Station_Console\3.28.1_Smart_Weather_Station_Console.md
-      - 3.29 Automated Greenhouse Controller: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.29_Automated_Greenhouse_Controller\3.29.1_Automated_Greenhouse_Controller.md
-      - 3.30 Industrial Safety Monitor: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.30_Industrial_Safety_Monitor\3.30.1_Industrial_Safety_Monitor.md
-      - 3.31 Smart City Intersection Simulator: STEMAIDE_CODER_Kit_Manual\Advance Projects\3.31_Smart_City_Intersection_Simulator\3.31.1_Smart_City_Intersection_Simulator.md
+          - 3.6.1 Smart Gauge System: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.6_STEM_Capstone_Projects/3.6.1_Smart_Gauge_System.md
+          - 3.6.2 Smart Traffic Light System: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.6_STEM_Capstone_Projects/3.6.2_Smart_Traffic_Light_System.md
+      - 3.7 Smart Vehicle Parking Management System: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.7_Smart_Vehicle_Parking_Management_System.md
+      - 3.7 Sound Controlled Desk Lamp:
+          - 3.7.1 Sound Controlled Desk Lamp: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.7_Sound_Controlled_Desk_Lamp/3.7.1_Sound_Controlled_Desk_Lamp.md
+      - 3.8 Proximity Parking Radar:
+          - 3.8.1 Proximity Parking Radar: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.8_Proximity_Parking_Radar/3.8.1_Proximity_Parking_Radar.md
+      - 3.8 Smart Hospital Patient Monitoring System: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.8_Smart_Hospital_Patient_Monitoring_System.md
+      - 3.9 Caliberated Water:
+          - 3.9.1 Calibrated Water Level Simulator: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.9_Caliberated_Water/3.9.1_Calibrated_Water_Level_Simulator.md
+      - 3.9 Smart Building Access System: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.9_Smart_Building_Access_System.md
+      - 3.10 Interactive Toll Gate:
+          - 3.10.1 Interactive Toll Gate Barrier: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.10_Interactive_Toll_Gate/3.10.1_Interactive_Toll_Gate_Barrier.md
+      - 3.10 Smart Disaster Early Warning System: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.10_Smart_Disaster_Early_Warning_System.md
+      - 3.11 Smart Farm Automation System: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.11_Smart_Farm_Automation_System.md
+      - 3.11 Smart Thermostat:
+          - 3.11.1 Smart Thermostat Simulator: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.11_Smart_Thermostat/3.11.1_Smart_Thermostat_Simulator.md
+      - 3.12 Armed Intruder Alarm:
+          - 3.12.1 Armed Intruder Alarm: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.12_Armed_Intruder_Alarm/3.12.1_Armed_Intruder_Alarm.md
+      - 3.12 Smart City Traffic Monitoring System: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.12_Smart_City_Traffic_Monitoring_System.md
+      - 3.13 Industrial Safety Monitoring System: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.13_Industrial_Safety_Monitoring_System.md
+      - 3.13 Speed Trapping Radar:
+          - 3.13.1 Speed Trapping Radar Warning: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.13_Speed_Trapping_Radar/3.13.1_Speed_Trapping_Radar_Warning.md
+      - 3.14 Smart Campus Management System: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.14_Smart_Campus_Management_System.md
+      - 3.14 Sound And Distance Alarm:
+          - 3.14.1 Sound & Distance Alarm: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.14_Sound_And_Distance_Alarm/3.14.1_Sound_&_Distance_Alarm.md
+      - 3.15 Emergency Panic:
+          - 3.15.1 Emergency Panic Station: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.15_Emergency_Panic/3.15.1_Emergency_Panic_Station.md
+      - 3.15 Smart City Integrated Monitoring Hub: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.15_Smart_City_Integrated_Monitoring_Hub.md
+      - 3.16 74HC595 LED Chaser: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.16_74HC595_LED_Chaser.md
+      - 3.16 Greenhouse Climate Monitor:
+          - 3.16.1 Greenhouse Climate Monitor: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.16_Greenhouse_Climate_Monitor/3.16.1_Greenhouse_Climate_Monitor.md
+      - 3.17 IR Remote LED Controller: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.17_IR_Remote_LED_Controller.md
+      - 3.17 Sound Reactive Servo Display:
+          - 3.17.1 Sound Reactive Servo Display: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.17_Sound_Reactive_Servo_Display/3.17.1_Sound_Reactive_Servo_Display.md
+      - 3.18 DS18B20 Digital Thermometer: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.18_DS18B20_Digital_Thermometer.md
+      - 3.18 Noise Pollution Monitor:
+          - 3.18.1 Noise Pollution Monitor: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.18_Noise_Pollution_Monitor/3.18.1_Noise_Pollution_Monitor.md
+      - 3.19 Adjustable Blink Rate Alarm:
+          - 3.19.1 Adjustable Blink Rate Alarm: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.19_Adjustable_Blink_Rate_Alarm/3.19.1_Adjustable_Blink_Rate_Alarm.md
+      - 3.19 Flame Alert Guardian: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.19_Flame_Alert_Guardian.md
+      - 3.20 Ball Switch Orientation Alert: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.20_Ball_Switch_Orientation_Alert.md
+      - 3.20 Color-Coded Servo Positioner:
+          - 3.20.1 Color-Coded Servo Positioner: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.20_Color-Coded_Servo_Positioner/3.20.1_Color-Coded_Servo_Positioner.md
+      - 3.21 4 Digit Countdown Timer: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.21_4_Digit_Countdown_Timer.md
+      - 3.21 Multi-Modal Security Gate:
+          - 3.21.1 Multi-Modal Security Gate: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.21_Multi-Modal_Security_Gate/3.21.1_Multi-Modal_Security_Gate.md
+      - 3.22 Dot Matrix Word Scroller: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.22_Dot_Matrix_Word_Scroller.md
+      - 3.22 Smart Mood Room Controller:
+          - 3.22.1 Smart Mood Room Controller: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.22_Smart_Mood_Room_Controller/3.22.1_Smart_Mood_Room_Controller.md
+      - 3.23 7 Segment Number Display: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.23_7_Segment_Number_Display.md
+      - 3.23 Dual Sensor Perimeter Alarm:
+          - 3.23.1 Dual Sensor Perimeter Alarm: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.23_Dual_Sensor_Perimeter_Alarm/3.23.1_Dual_Sensor_Perimeter_Alarm.md
+      - 3.24 Calibrated Light Alarm Gauge:
+          - 3.24.1 Calibrated Light Alarm Gauge: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.24_Calibrated_Light_Alarm_Gauge/3.24.1_Calibrated_Light_Alarm_Gauge.md
+      - 3.24 Stepper Motor Position Controller: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.24_Stepper_Motor_Position_Controller.md
+      - 3.25 Integrated Smart Home Security Console:
+          - 3.25.1 Integrated Smart Home Security Console: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.25_Integrated_Smart_Home_Security_Console/3.25.1_Integrated_Smart_Home_Security_Console.md
+      - 3.25 Joystick LED Direction Control: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.25_Joystick_LED_Direction_Control.md
+      - 3.26 Autonomous Parking Garage System:
+          - 3.26.1 Autonomous Parking Garage System: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.26_Autonomous_Parking_Garage_System/3.26.1_Autonomous_Parking_Garage_System.md
+      - 3.26 Real Time Clock Serial Display: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.26_Real_Time_Clock_Serial_Display.md
+      - 3.27 Auditory Reaction Timer Game:
+          - 3.27.1 Auditory Reaction Timer Game: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.27_Auditory_Reaction_Timer_Game/3.27.1_Auditory_Reaction_Timer_Game.md
+      - 3.27 DC Motor Speed Controller: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.27_DC_Motor_Speed_Controller.md
+      - 3.28 Bluetooth LED Controller: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.28_Bluetooth_LED_Controller.md
+      - 3.28 Smart Weather Station Console:
+          - 3.28.1 Smart Weather Station Console: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.28_Smart_Weather_Station_Console/3.28.1_Smart_Weather_Station_Console.md
+      - 3.29 Automated Greenhouse Controller:
+          - 3.29.1 Automated Greenhouse Controller: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.29_Automated_Greenhouse_Controller/3.29.1_Automated_Greenhouse_Controller.md
+      - 3.29 Colour Sensor Object Identifier: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.29_Colour_Sensor_Object_Identifier.md
+      - 3.30 BME280 Weather Station: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.30_BME280_Weather_Station.md
+      - 3.30 Industrial Safety Monitor:
+          - 3.30.1 Industrial Safety Monitor: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.30_Industrial_Safety_Monitor/3.30.1_Industrial_Safety_Monitor.md
+      - 3.31 Rocket Switch Circuit Breaker: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.31_Rocket_Switch_Circuit_Breaker.md
+      - 3.31 Smart City Intersection Simulator:
+          - 3.31.1 Smart City Intersection Simulator: STEMAIDE_CODER_PRO_Kit_Manual/advance/3.31_Smart_City_Intersection_Simulator/3.31.1_Smart_City_Intersection_Simulator.md
+      - Overview: STEMAIDE_CODER_PRO_Kit_Manual/advance/index.md
+  - Expert Projects:
+      - expert I:
+          - 4.1.1 BME280 LCD Environmental Monitor: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.1_BME280_LCD_Environmental_Monitor.md
+          - 4.1.2 Smart Fire Safety & Alarm System: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.2_Smart_Fire_Safety_&_Alarm_System.md
+          - 4.1.3 Automated Plant Soil & Water Monitor: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.3_Automated_Plant_Soil_&_Water_Monitor.md
+          - 4.1.4 Temperature Triggered Cooling Fan: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.4_Temperature_Triggered_Cooling_Fan.md
+          - 4.1.5 Proximity Warning Radar: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.5_Proximity_Warning_Radar.md
+          - 4.1.6 Motion Activated Security Floodlight: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.6_Motion_Activated_Security_Floodlight.md
+          - 4.1.7 BME280 LCD Environmental Monitor: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.7_BME280_LCD_Environmental_Monitor.md
+          - 4.1.8 Smart Fire Safety  Alarm System: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.8_Smart_Fire_Safety__Alarm_System.md
+          - 4.1.9 Automated Plant Soil  Water Monitor: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.9_Automated_Plant_Soil__Water_Monitor.md
+          - 4.1.10 Temperature Triggered Cooling Fan: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.10_Temperature_Triggered_Cooling_Fan.md
+          - 4.1.11 Proximity Warning Radar: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.11_Proximity_Warning_Radar.md
+          - 4.1.12 Motion Activated Security Floodlight: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.12_Motion_Activated_Security_Floodlight.md
+          - 4.1.13 Multi Stage Gas  Flame Guardian: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.13_Multi_Stage_Gas__Flame_Guardian.md
+          - 4.1.14 Industrial Tilt  Shock Alarm: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.14_Industrial_Tilt__Shock_Alarm.md
+          - 4.1.15 Precision Climate Chamber Controller: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.15_Precision_Climate_Chamber_Controller.md
+          - 4.1.16 Smart Water Tank Overfill Alarm: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.16_Smart_Water_Tank_Overfill_Alarm.md
+          - 4.1.17 Ultrasonic Height  Distance Scale: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.17_Ultrasonic_Height__Distance_Scale.md
+          - 4.1.18 Smart Night Light with Motion Override: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.18_Smart_Night_Light_with_Motion_Override.md
+          - 4.1.19 High Temperature Industrial Guard: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.19_High_Temperature_Industrial_Guard.md
+          - 4.1.20 Fire  Smoke Evacuation Siren: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.20_Fire__Smoke_Evacuation_Siren.md
+          - 4.1.21 Environmental Comfort Index Meter: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.21_Environmental_Comfort_Index_Meter.md
+          - 4.1.22 Dual Zone Thermal Monitoring Station: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.22_Dual_Zone_Thermal_Monitoring_Station.md
+          - 4.1.23 Intruder Perimeter Access Counter: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.23_Intruder_Perimeter_Access_Counter.md
+          - 4.1.24 Automated Flood Warning Gate: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.24_Automated_Flood_Warning_Gate.md
+          - 4.1.25 Multi Channel LED Safety Array: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.25_Multi_Channel_LED_Safety_Array.md
+          - 4.1.26 Ambient Light  Motion Streetlight: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.26_Ambient_Light__Motion_Streetlight.md
+          - 4.1.27 Sound  Thermal Industrial Sentinel: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.27_Sound__Thermal_Industrial_Sentinel.md
+          - 4.1.28 Weather Condition Matrix Console: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.28_Weather_Condition_Matrix_Console.md
+          - 4.1.29 Emergency Equipment Tilt Interlock: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.29_Emergency_Equipment_Tilt_Interlock.md
+          - 4.1.30 Smart Aquaponics Environment Station: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.30_Smart_Aquaponics_Environment_Station.md
+          - 4.1.31 High Precision Liquid Level Meter: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.31_High_Precision_Liquid_Level_Meter.md
+          - 4.1.32 Solar Tracker Position Simulator: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.32_Solar_Tracker_Position_Simulator.md
+          - 4.1.33 Intelligent Flame  Gas Containment: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.33_Intelligent_Flame__Gas_Containment.md
+          - 4.1.34 Smart Warehouse Environmental Monitor: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.34_Smart_Warehouse_Environmental_Monitor.md
+          - 4.1.35 Master Safety Monitoring Station: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_I/4.1.35_Master_Safety_Monitoring_Station.md
+      - expert II:
+          - 4.2.1 Joystick Dual Axis Stepper Arm Controller: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.1_Joystick_Dual_Axis_Stepper_Arm_Controller.md
+          - 4.2.2 Keypad Digital Safe Lock Mechanism: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.2_Keypad_Digital_Safe_Lock_Mechanism.md
+          - 4.2.3 IR Remote Dual DC Motor Drive: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.3_IR_Remote_Dual_DC_Motor_Drive.md
+          - 4.2.4 Interactive Dot Matrix Arcade Snake Simulator: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.4_Interactive_Dot_Matrix_Arcade_Snake_Simulator.md
+          - 4.2.5 Keypad Speed Controlled Fan: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.5_Keypad_Speed_Controlled_Fan.md
+          - 4.2.6 Dual Axis Servo Camera Gimbal Stabilizer: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.6_Dual_Axis_Servo_Camera_Gimbal_Stabilizer.md
+          - 4.2.7 IR Remote Stepper Angle Indexing Table: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.7_IR_Remote_Stepper_Angle_Indexing_Table.md
+          - 4.2.8 Keypad Sequence Combination Security Lock: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.8_Keypad_Sequence_Combination_Security_Lock.md
+          - 4.2.9 Joystick Steering DC Rover Drive: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.9_Joystick_Steering_DC_Rover_Drive.md
+          - 4.2.10 Remote Controlled 7 Segment Scorekeeper: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.10_Remote_Controlled_7_Segment_Scorekeeper.md
+          - 4.2.11 Interactive Keypad Calculator Engine: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.11_Interactive_Keypad_Calculator_Engine.md
+          - 4.2.12 Joystick Controlled RGB Matrix Palette: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.12_Joystick_Controlled_RGB_Matrix_Palette.md
+          - 4.2.13 Keypad Frequency Audio Tone Generator: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.13_Keypad_Frequency_Audio_Tone_Generator.md
+          - 4.2.14 IR Remote Multi Mode Lighting Console: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.14_IR_Remote_Multi_Mode_Lighting_Console.md
+          - 4.2.15 Joystick Stepper Precision Micro Positioner: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.15_Joystick_Stepper_Precision_Micro_Positioner.md
+          - 4.2.16 Keypad Access Gate Barrier: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.16_Keypad_Access_Gate_Barrier.md
+          - 4.2.17 Multi Button Remote Fan Speed Switcher: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.17_Multi_Button_Remote_Fan_Speed_Switcher.md
+          - 4.2.18 Interactive Dot Matrix Reflex Game: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.18_Interactive_Dot_Matrix_Reflex_Game.md
+          - 4.2.19 Keypad Emergency Power Shutoff System: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.19_Keypad_Emergency_Power_Shutoff_System.md
+          - 4.2.20 Dual Joystick Robotic Arm Controller: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.20_Dual_Joystick_Robotic_Arm_Controller.md
+          - 4.2.21 IR Controlled Stepper Conveyor Indexer: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.21_IR_Controlled_Stepper_Conveyor_Indexer.md
+          - 4.2.22 Keypad Password Lock with Relay Isolation: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.22_Keypad_Password_Lock_with_Relay_Isolation.md
+          - 4.2.23 Joystick Velocity Controlled Motor Drive: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.23_Joystick_Velocity_Controlled_Motor_Drive.md
+          - 4.2.24 IR Remote Servo Turret Positioner: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.24_IR_Remote_Servo_Turret_Positioner.md
+          - 4.2.25 Keypad PIN Activated Motor Starter: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.25_Keypad_PIN_Activated_Motor_Starter.md
+          - 4.2.26 Joystick Dynamic Dot Matrix Pointer: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.26_Joystick_Dynamic_Dot_Matrix_Pointer.md
+          - 4.2.27 IR Remote Multi Channel Appliance Switch: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.27_IR_Remote_Multi_Channel_Appliance_Switch.md
+          - 4.2.28 Keypad Controlled Stepper Rotation Table: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.28_Keypad_Controlled_Stepper_Rotation_Table.md
+          - 4.2.29 Joystick Industrial Pan Tilt Camera Rig: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.29_Joystick_Industrial_Pan_Tilt_Camera_Rig.md
+          - 4.2.30 Master Keypad  Joystick Automation Console: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_II/4.2.30_Master_Keypad__Joystick_Automation_Console.md
+      - expert III:
+          - 4.3.1 Bluetooth Smart Home Automation Hub: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.1_Bluetooth_Smart_Home_Automation_Hub.md
+          - 4.3.2 Smart Clock Schedule Alarm Controller: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.2_Smart_Clock_Schedule_Alarm_Controller.md
+          - 4.3.3 RFID Automated Garage Barrier System: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.3_RFID_Automated_Garage_Barrier_System.md
+          - 4.3.4 Bluetooth Wireless Weather Telemetry Node: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.4_Bluetooth_Wireless_Weather_Telemetry_Node.md
+          - 4.3.5 Scheduled Irrigation System with Rain Lockout: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.5_Scheduled_Irrigation_System_with_Rain_Lockout.md
+          - 4.3.6 RFID Employee Attendance Counter: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.6_RFID_Employee_Attendance_Counter.md
+          - 4.3.7 Wireless Bluetooth Industrial Robot Arm Drive: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.7_Wireless_Bluetooth_Industrial_Robot_Arm_Drive.md
+          - 4.3.8 Real Time Clock Night Light Controller: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.8_Real_Time_Clock_Night_Light_Controller.md
+          - 4.3.9 Smart RFID Door Access Control Gate: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.9_Smart_RFID_Door_Access_Control_Gate.md
+          - 4.3.10 Bluetooth Variable DC Fan Controller: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.10_Bluetooth_Variable_DC_Fan_Controller.md
+          - 4.3.11 Real Time Clock Industrial Shift Siren: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.11_Real_Time_Clock_Industrial_Shift_Siren.md
+          - 4.3.12 RFID Inventory Tag Counter: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.12_RFID_Inventory_Tag_Counter.md
+          - 4.3.13 Wireless Bluetooth Stepper Motor Controller: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.13_Wireless_Bluetooth_Stepper_Motor_Controller.md
+          - 4.3.14 Smart RTC Energy Saver: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.14_Smart_RTC_Energy_Saver.md
+          - 4.3.15 RFID Access Logging System: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.15_RFID_Access_Logging_System.md
+          - 4.3.16 Bluetooth Multi Color Mood Lighting Console: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.16_Bluetooth_Multi_Color_Mood_Lighting_Console.md
+          - 4.3.17 Real Time Clock Greenhouse Light Automation: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.17_Real_Time_Clock_Greenhouse_Light_Automation.md
+          - 4.3.18 RFID Keycard Motor Security Starter: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.18_RFID_Keycard_Motor_Security_Starter.md
+          - 4.3.19 Bluetooth Wireless Proximity Alarm System: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.19_Bluetooth_Wireless_Proximity_Alarm_System.md
+          - 4.3.20 Real Time Clock Fire Safeguard Logger: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.20_Real_Time_Clock_Fire_Safeguard_Logger.md
+          - 4.3.21 RFID Dual Barrier Access Gate: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.21_RFID_Dual_Barrier_Access_Gate.md
+          - 4.3.22 Bluetooth Remote Matrix Display Scroller: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.22_Bluetooth_Remote_Matrix_Display_Scroller.md
+          - 4.3.23 Smart RTC Solar Tracker Controller: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.23_Smart_RTC_Solar_Tracker_Controller.md
+          - 4.3.24 RFID Keycard Multi Relay Switching Console: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.24_RFID_Keycard_Multi_Relay_Switching_Console.md
+          - 4.3.25 Bluetooth Telemetry Environmental Logger: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.25_Bluetooth_Telemetry_Environmental_Logger.md
+          - 4.3.26 Real Time Clock Liquid Tank Automated Pump: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.26_Real_Time_Clock_Liquid_Tank_Automated_Pump.md
+          - 4.3.27 RFID Smart Warehouse Conveyor Indexer: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.27_RFID_Smart_Warehouse_Conveyor_Indexer.md
+          - 4.3.28 Bluetooth Controlled Pan Tilt Turret Camera: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.28_Bluetooth_Controlled_Pan_Tilt_Turret_Camera.md
+          - 4.3.29 Real Time Clock Multi Stage School Bell: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.29_Real_Time_Clock_Multi_Stage_School_Bell.md
+          - 4.3.30 Grand Master Wireless IoT Smart City Controller: STEMAIDE_CODER_PRO_Kit_Manual/expert/expert_III/4.3.30_Grand_Master_Wireless_IoT_Smart_City_Controller.md
   - Appendices:
-    #   - Overview: STEMAIDE_CODER_Kit_Manual/Appendices/index.md
-      - Wiring Reference: STEMAIDE_CODER_Kit_Manual/Appendices/Wiring_Reference.md
-      - Common Errors: STEMAIDE_CODER_Kit_Manual/Appendices/Common_Errors.md
-      - Component Guide: STEMAIDE_CODER_Kit_Manual/Appendices/Component_Guide.md
-      - Troubleshooting: STEMAIDE_CODER_Kit_Manual/Appendices/Troubleshooting.md
-    #   - User Guide: STEMAIDE_CODER_Kit_Manual/Appendices/User_Guide.md
-    #   - Developer Guide: STEMAIDE_CODER_Kit_Manual/Appendices/Developer_Guide.md
-    #   - Core Features: STEMAIDE_CODER_Kit_Manual/Appendices/Core_Features.md
-    #   - Advanced Features: STEMAIDE_CODER_Kit_Manual/Appendices/Advanced_Features.md
-    #   - About Prol: STEMAIDE_CODER_Kit_Manual/Appendices/About_Prol.md
-      - Code of Conduct: STEMAIDE_CODER_Kit_Manual/Appendices/Code_of_Conduct.md
-      - Contributing: STEMAIDE_CODER_Kit_Manual/Appendices/Contributing.md
-      - Changelog: STEMAIDE_CODER_Kit_Manual/Appendices/Changelog.md
-  - Glossary: STEMAIDE_CODER_Kit_Manual/Glossary/STEMAIDE_Glossary.md
-  - References: STEMAIDE_CODER_Kit_Manual/References/References.md
+      - Changelog: STEMAIDE_CODER_PRO_Kit_Manual/Appendices/Changelog.md
+      - Code of Conduct: STEMAIDE_CODER_PRO_Kit_Manual/Appendices/Code_of_Conduct.md
+      - Common Errors: STEMAIDE_CODER_PRO_Kit_Manual/Appendices/Common_Errors.md
+      - Component Guide: STEMAIDE_CODER_PRO_Kit_Manual/Appendices/Component_Guide.md
+      - Contributing: STEMAIDE_CODER_PRO_Kit_Manual/Appendices/Contributing.md
+      - Troubleshooting: STEMAIDE_CODER_PRO_Kit_Manual/Appendices/Troubleshooting.md
+      - Wiring Reference: STEMAIDE_CODER_PRO_Kit_Manual/Appendices/Wiring_Reference.md
+  - Glossary:
+      - STEMAIDE Glossary: STEMAIDE_CODER_PRO_Kit_Manual/Glossary/STEMAIDE_Glossary.md
+  - References:
+      - References: STEMAIDE_CODER_PRO_Kit_Manual/References/References.md
