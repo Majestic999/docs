@@ -46,3 +46,45 @@ Using the internal `INPUT_PULLUP` resistor simplifies button wiring. When the bu
     *   **Black / Blue** = GND Ground
     *   **Yellow / Green / White** = Signals (Sensor inputs or actuator control)
 3.  **Ensure connections are deep and secure**: Wires should sit firmly inside the breadboard holes. Loose wires cause erratic sensor noise and intermittent behavior.
+
+
+---
+
+## 3. ESP32 3.3V Voltage Protection & Level Shifting Rules
+
+> [!IMPORTANT]
+> The ESP32 operates at **3.3V logic** and is **NOT 5V tolerant**. Exceeding 3.6V on any GPIO pin can permanently damage the chip!
+
+### Rule 1: Potentiometers & Analog Sensors on 3.3V
+Always connect the VCC / outer power pin of potentiometers, LDRs, water level sensors, and soil moisture sensors to the **3.3V pin** on the ESP32 board. This guarantees analog voltage output never exceeds 3.3V.
+
+### Rule 2: HC-SR04 Ultrasonic Echo Voltage Divider
+When the HC-SR04 is powered by 5V, its Echo pin outputs a 5V signal. You MUST insert a 1kΩ / 2kΩ resistor divider:
+```
+[HC-SR04 ECHO (5V)] ────[ 1kΩ ]────┬────► [ESP32 GPIO (Safe 3.3V)]
+                                   │
+                                 [ 2kΩ ]
+                                   │
+                                 [ GND ]
+```
+
+
+---
+
+## 3. ESP32 3.3V Voltage Protection & Level Shifting Rules
+
+> [!IMPORTANT]
+> The ESP32 operates at **3.3V logic** and is **NOT 5V tolerant**. Exceeding 3.6V on any GPIO pin can permanently damage the chip!
+
+### Rule 1: Potentiometers & Analog Sensors on 3.3V
+Always connect the VCC / outer power pin of potentiometers, LDRs, water level sensors, and soil moisture sensors to the **3.3V pin** on the ESP32 board. This guarantees analog voltage output never exceeds 3.3V.
+
+### Rule 2: HC-SR04 Ultrasonic Echo Voltage Divider
+When the HC-SR04 is powered by 5V, its Echo pin outputs a 5V signal. You MUST insert a 1kΩ / 2kΩ resistor divider:
+```
+[HC-SR04 ECHO (5V)] ────[ 1kΩ ]────┬────► [ESP32 GPIO (Safe 3.3V)]
+                                   │
+                                 [ 2kΩ ]
+                                   │
+                                 [ GND ]
+```
